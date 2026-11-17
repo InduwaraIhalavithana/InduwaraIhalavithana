@@ -22,7 +22,7 @@ I look at problems people face in Sri Lanka, build a solution end to end, and pu
 ## Tech I work with
 
 **Languages:** Python · TypeScript · JavaScript · Java · SQL · Bash
-**AI/ML:** XGBoost · scikit-learn · TensorFlow · PyTorch · pandas · NumPy
+**AI/ML:** XGBoost · Random Forest · scikit-learn · pandas · NumPy
 **Web:** React · Next.js · Tailwind CSS · FastAPI · SQLAlchemy · PostgreSQL
 **DevOps:** Docker · nginx · GitHub Actions · Azure · Vercel
 **Testing:** pytest · Vitest · ESLint · Ruff
